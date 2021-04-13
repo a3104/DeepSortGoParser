@@ -1,1 +1,1 @@
-module "deepsortParser"
+module "github.com/a3104/DeepSortGoParser"
