@@ -1,4 +1,4 @@
-package deepsortParser
+package DeepSortGoParser
 
 import (
 	"fmt"
